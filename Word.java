@@ -19,7 +19,7 @@ public class Word implements Comparable<Word>{
      public void setWord(String word) {
         this.word = word;
     }
-    public String getDefintion() {
+    public String getDefinition() {
         return defintion;
     }
     public void setDefintion(String defintion) {
